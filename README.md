@@ -26,6 +26,9 @@ I build mobile apps from scratch, with supporting backends based on SQLite. Curr
 
 <p align="left"> <a href="https://www.github.com/mahdiyarz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahdiyar-arbabzi-48396835" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15826420/mahdyar-z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
 
+### My Medium latest posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ### Badges
 
