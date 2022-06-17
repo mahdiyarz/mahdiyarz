@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  update-readme-with-stack-overflow:
+  update-readme-with-medium:
     name: Update this repo's README with latest activity from Medium
     runs-on: ubuntu-latest
     steps:

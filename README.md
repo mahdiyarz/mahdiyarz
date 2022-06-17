@@ -3,7 +3,7 @@
 <!-- ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 ================================
 
-Android & IOS Aplication Development
+Android & IOS Apps Development
 -----------------
 
 I build mobile apps from scratch, with supporting backends based on SQLite. Currently, I focus on Dart and Flutter, but I also have a little background experience in Full-Stack development.
@@ -14,7 +14,6 @@ I build mobile apps from scratch, with supporting backends based on SQLite. Curr
 <p align="left">
 <a href="https://docs.flutter.dev/reference/tutorials" target="_blank" rel="noreferrer"><img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="70" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/overview" target="_blank" rel="noreferrer"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="70" height="36" alt="Dart" /></a>
-
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
@@ -30,14 +29,18 @@ I build mobile apps from scratch, with supporting backends based on SQLite. Curr
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
+### My Virgool latest posts
+<!-- VIRGOOL:START -->
+<!-- VIRGOOL:END -->
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mahdiyarz"><img src="https://github-readme-stats.vercel.app/api?username=mahdiyarz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahdiyarz's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/mahdiyarz"><img src="https://github-readme-stats.vercel.app/api?username=mahdiyarz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahdiyarz's GitHub stats" /></a>
 
 <a href="http://www.github.com/mahdiyarz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiyarz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mahdiyarz"><img src="https://activity-graph.herokuapp.com/graph?username=mahdiyarz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mahdiyarz"><img src="https://activity-graph.herokuapp.com/graph?username=mahdiyarz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/mahdiyarz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyarz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
