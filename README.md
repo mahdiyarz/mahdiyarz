@@ -32,6 +32,8 @@ I build mobile apps from scratch, with supporting backends based on SQLite. Curr
 ### My Virgool latest posts
 <p align="left">
 <!-- VIRGOOL:START -->
+- [رفع خطای نصب SDK اندروید استدیو &amp;quot;SDK emulator directory is missing&amp;quot;](https://virgool.io/@m.arbabzi/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8-sdk-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88-sdk-emulator-directory-is-missing-tlpmawotr7il)
+- [نحوه کار با مپ باکس و فلاتر مپ](https://virgool.io/@m.arbabzi/%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%85%D9%BE-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%88-%D9%81%D9%84%D8%A7%D8%AA%D8%B1-%D9%85%D9%BE-fmwdrhxvauwu)
 <!-- VIRGOOL:END -->
 </p>
 ### Badges
