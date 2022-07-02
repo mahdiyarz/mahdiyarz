@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdiyar Arbabzi</h1>
 <h3 align="center">Android & IOS Apps Development</h3>
-I build mobile apps from scratch, with supporting backends based on SQLite. Currently, I focus on Dart and Flutter, but I also have a little background experience in Full-Stack development.
+I build mobile apps from scratch, with supporting backends based on SQLite. Currently, I focus on Dart and Flutter, but I also have a little background experience in Full-Stack web development.
 
 
 ### Connect with me:
