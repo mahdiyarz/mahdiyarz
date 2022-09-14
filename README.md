@@ -21,9 +21,9 @@ I build mobile apps from scratch, with supporting backends based on SQLite. Curr
 <!-- MEDIUM:END -->
 ### My Virgool latest posts
 <!-- VIRGOOL:START -->
-- [معرفی پکیج Device Preview](https://vrgl.ir/fwkpN)
-- [رفع خطای نصب SDK اندروید استدیو «SDK emulator directory is missing»](https://vrgl.ir/gjdz8)
-- [نحوه کار با مپ باکس و فلاتر مپ](https://vrgl.ir/3EcHC)
+- [معرفی پکیج Device Preview](https://virgool.io/@m.arbabzi/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%BE%DA%A9%DB%8C%D8%AC-device-preview-s2i50ltqkxh5)
+- [رفع خطای نصب SDK اندروید استدیو «SDK emulator directory is missing»](https://virgool.io/@m.arbabzi/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8-sdk-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88-sdk-emulator-directory-is-missing-tlpmawotr7il)
+- [نحوه کار با مپ باکس و فلاتر مپ](https://virgool.io/flutter-community/%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%85%D9%BE-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%88-%D9%81%D9%84%D8%A7%D8%AA%D8%B1-%D9%85%D9%BE-fmwdrhxvauwu)
 <!-- VIRGOOL:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdiyarz&show_icons=true&locale=en&layout=compact" alt="mahdiyarz" /></p>
