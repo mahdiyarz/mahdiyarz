@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>My name is Mahdiyar and I'm a Flutter developer<br><br>💻 I'm a Flutter developer who has honed his skills through self-study and hard work<br>🌱 I have a passion for learning deep knowledge<br>🔭 I have a background in full-stack development for a long time ago<br>🤝 My knack for generating new ideas and finding creative solutions to complex problems make me a valuable asset to any team
+Hi,<br>My name is Mahdiyar and I'm a Flutter developer<br><br>💻 I'm a Flutter developer who has honed his skills through self-study and hard work<br>🌱 I have passion for learning deep knowledge<br>🔭 I have a background in full-stack development for a long time ago<br>🤝 My knack for generating new ideas and finding creative solutions to complex problems make me a valuable asset to any team
 
 
 ## 🌐 Socials:
