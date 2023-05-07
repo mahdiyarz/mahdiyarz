@@ -12,12 +12,12 @@ Hi,<br>My name is Mahdiyar and I'm a Flutter developer<br><br>💻 I'm a Flutter
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiyarz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyarz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### My Medium latest posts
+# My Medium latest posts
 <!-- MEDIUM:START -->
 - [Device Preview package](https://medium.com/@m.arbabzi/device-preview-package-449459053c7?source=rss-baa8046802cb------2)
 - [How can use flutter map and Mapbox with each other?](https://medium.com/@m.arbabzi/how-can-use-flutter-map-and-mapbox-with-each-other-1fd57dc9623a?source=rss-baa8046802cb------2)
 <!-- MEDIUM:END -->
-### My Virgool latest posts
+# آخرین پست های من در ویرگول
 <!-- VIRGOOL:START -->
 - [معرفی پکیج Device Preview](https://virgool.io/@m.arbabzi/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%BE%DA%A9%DB%8C%D8%AC-device-preview-s2i50ltqkxh5)
 - [رفع خطای نصب SDK اندروید استدیو «SDK emulator directory is missing»](https://virgool.io/@m.arbabzi/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8-sdk-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88-sdk-emulator-directory-is-missing-tlpmawotr7il)
