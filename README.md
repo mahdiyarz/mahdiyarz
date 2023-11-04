@@ -23,7 +23,7 @@ Hey,<br>My name is Mahdiyar and I'm a Flutter developer<br><br>💻 I'm a Flutte
 - [نحوه استفاده از فلاتر جن &lpar;Flutter_gen&rpar; پکیج در ویندوز](https://virgool.io/@m.arbabzi/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%81%D9%84%D8%A7%D8%AA%D8%B1-%D8%AC%D9%86-fluttergen-%D9%BE%DA%A9%DB%8C%D8%AC-%D8%AF%D8%B1-%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2-esergtxqdlob)
 - [معرفی پکیج Device Preview](https://virgool.io/@m.arbabzi/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%BE%DA%A9%DB%8C%D8%AC-device-preview-s2i50ltqkxh5)
 - [رفع خطای نصب SDK اندروید استدیو «SDK emulator directory is missing»](https://virgool.io/@m.arbabzi/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-%D9%86%D8%B5%D8%A8-sdk-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88-sdk-emulator-directory-is-missing-tlpmawotr7il)
-- [نحوه کار با مپ باکس و فلاتر مپ](https://virgool.io/flutter-community/%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%85%D9%BE-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%88-%D9%81%D9%84%D8%A7%D8%AA%D8%B1-%D9%85%D9%BE-fmwdrhxvauwu)
+- [نحوه کار با مپ باکس و فلاتر مپ &lpar;ویرایش 12 آبان 1402&rpar;](https://virgool.io/flutter-community/%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%85%D9%BE-%D8%A8%D8%A7%DA%A9%D8%B3-%D9%88-%D9%81%D9%84%D8%A7%D8%AA%D8%B1-%D9%85%D9%BE-fmwdrhxvauwu)
 <!-- VIRGOOL:END -->
 
 ---
