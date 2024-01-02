@@ -29,6 +29,7 @@ Hey,<br>My name is Mahdiyar and I'm a Flutter developer<br><br>💻 I'm a Flutte
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdiyarz&icon=2&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/86ab63c6-f07c-4c51-a282-88f13f4ed49f.svg)](https://wakatime.com/@86ab63c6-f07c-4c51-a282-88f13f4ed49f)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
